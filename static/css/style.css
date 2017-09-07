@@ -1,0 +1,10 @@
+body {
+    margin: auto;
+    width: 100%;
+    border:2px solid pink;
+}
+
+#wrapper {
+    width: 70%;
+    text-align: center;
+}
